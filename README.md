@@ -1,6 +1,6 @@
 # Reporter
 
-#### Python script to Report Twitter Accounts.
+#### Python script to Report Twitter Accounts
 
 Just clone it & run it.
 >
@@ -9,4 +9,6 @@ Just clone it & run it.
 >* cd Reporter
 >* chmod +x Reporter.py
 >* python3 Reporter.py
->* Enter the username ..
+>
+* Enter the username: ...
+  * Note: you can adjust the limit of reporting from parameters in the code.
