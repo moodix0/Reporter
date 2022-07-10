@@ -11,4 +11,4 @@ Just clone it & run it.
 >
 * Enter the username: ...
   * Note: you can adjust the limit of reporting from parameters in the code.
-  * you have to use your own credentials "API"
+  * you have to use your own credentials "API".
