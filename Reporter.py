@@ -6,7 +6,7 @@ print("     Reporter  \n Twitter: @moodix0 \n Github: @moodix94 \n")
 
 # Examples for API:
 # use your own credentials:
-
+print(" Warning !!! \n Before running this script ! \n You Have to insert your API credentials to use this tool ...  ")
 consumer_key = "1234ABCD"
 consumer_secret = "1234ABCD"
 access_token = "1234ABCD"
