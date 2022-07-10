@@ -10,5 +10,5 @@ Just clone it & run it.
     * python3 Reporter.py
 >
 * Enter the username: ...
-  *  Note: you can adjust the limit of reporting from parameters in the code.
-  *  you have to use your own credentials "API" 
+  * Note: you can adjust the limit of reporting from parameters in the code.
+  * you have to use your own credentials "API"
