@@ -1,10 +1,11 @@
 import tweepy as tw
 
+
 print("     Reporter  \n Twitter: @moodix0 \n Github: @moodix94 \n")
+
 
 # Examples for API:
 # use your own credentials:
-print(" ***  \n Before running this script! \n You Have to insert your API credentials to use this tool.  \n *** ")
 
 consumer_key = "1234ABCD"
 consumer_secret = "1234ABCD"
@@ -15,11 +16,14 @@ auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 api = tw.API(auth)
 
+# Enter the "username" for account that you want:
+
 screen_name = input("\n # Enter Username: ")
 print('\n * Wait Please..!')
 perform_block = True
 
 # you can adjust the "range" of reporting:
+
 for i in range(1, 500):
     if perform_block:
         try:
