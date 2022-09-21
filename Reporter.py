@@ -1,6 +1,6 @@
 import tweepy as tw
 
-print("     Reporter  \n Twitter: @moodix0 \n Github: @moodix94 \n")
+print("     Reporter  \n Twitter: @moodix0 \n Github: @moodix0 \n")
 
 print(" ***  \n Before running this script! \n You Have to insert your 'API' credentials to use this tool.  \n *** ")
 
