@@ -30,3 +30,4 @@
   * Note:
     * you can adjust the limit of reporting from parameters in the code.
     * you have to use your own credentials "API".
+    * you can get it from [here](https://developer.twitter.com/en/apps).
